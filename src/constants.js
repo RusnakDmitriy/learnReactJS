@@ -1,0 +1,13 @@
+export const DELETE_ARTICLE = 'DELETE_ARTICLE';
+export const INCREMENT = 'INCREMENT';
+export const CHANGE_SELECT = 'CHANGE_SELECT';
+export const CHANGE_DATERANGE = 'CHANGE_DATERANGE';
+export const RESET_CHANGE_DATERANGE = 'RESET_CHANGE_DATERANGE';
+export const ADD_COMMENT = 'ADD_COMMENT';
+export const LOAD_ALL_ARTICLES = 'LOAD_ALL_ARTICLES';
+export const START = '_START';
+export const SUCCESS = '_SUCCESS';
+export const FAIL = '_FAIL';
+export const LOAD_ARTICLE = 'LOAD_ARTICLE';
+export const LOAD_COMMENTS = 'LOAD_COMMENTS';
+export const LOAD_ALL_COMMENTS = 'LOAD_ALL_COMMENTS';
